@@ -1,1 +1,0 @@
-# vaga-fullstack
